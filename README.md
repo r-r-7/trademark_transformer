@@ -380,7 +380,7 @@ docker-compose up --build
 </code>
 </pre>
 
-<b>Due to storage constraints I was not able to push all the required files into the repository, please make use of the same [Google Drive](https://drive.google.com/file/d/15X4n2EpdO4TdZiPwQiYk9xKOgJkAoIK-/view?usp=drive_link)</b>
+<b>Due to storage constraints I was not able to push all the required files into the repository, please make use of the same [Google Drive](https://drive.google.com/drive/folders/1yJtv2a-XYr7Y589QKg_fTTtBT5h6hvgx?usp=sharing)</b>
 
 <b>API Request and response (Postman)</b>
 ![image](https://github.com/user-attachments/assets/290e9e45-7d6e-4117-97a5-c5bbf9007159)
