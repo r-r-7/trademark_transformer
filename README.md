@@ -375,6 +375,15 @@ docker-compose up --build
 
 <b>Due to storage constraints I was not able to push all the required files into the repository, please make use of the same [Google Drive](https://drive.google.com/file/d/15X4n2EpdO4TdZiPwQiYk9xKOgJkAoIK-/view?usp=drive_link)</b>
 
+<b>API Request and response</b>
 ![image](https://github.com/user-attachments/assets/290e9e45-7d6e-4117-97a5-c5bbf9007159)
+
+<b>ERROR: HTTP 429 status code</b>
+![image](https://github.com/user-attachments/assets/3d191f15-aabb-40b3-81cf-dbf833cd1f0c)
+
+
+<b>API Log file</b>
+![image](https://github.com/user-attachments/assets/a0da7d16-3fd6-48ee-8d4c-4146569bc976)
+
 
 
