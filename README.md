@@ -394,5 +394,6 @@ docker-compose up --build
 <b>API Log file</b>
 ![image](https://github.com/user-attachments/assets/a0da7d16-3fd6-48ee-8d4c-4146569bc976)
 
+![image](https://github.com/user-attachments/assets/ec668d52-4d56-4b2b-a1e6-1e88d18d8b8f)
 
 
