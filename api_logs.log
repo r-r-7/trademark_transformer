@@ -1,0 +1,2 @@
+INFO 2024-08-14 06:53:05,192 views Received request from user_id: user111 with description: 'Artificial Intelligence'
+INFO 2024-08-14 06:53:09,239 views Response for user_id: user111 | Predicted Class: 042 | Inference Time: 3.9312 seconds
