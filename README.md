@@ -391,6 +391,8 @@ docker-compose up --build
 <b>ERROR: HTTP 429 status code</b>
 ![image](https://github.com/user-attachments/assets/3d191f15-aabb-40b3-81cf-dbf833cd1f0c)
 
+![image](https://github.com/user-attachments/assets/06f8253b-aef4-4d8b-a62c-428239da6249)
+
 
 <b>API Log file</b>
 ![image](https://github.com/user-attachments/assets/a0da7d16-3fd6-48ee-8d4c-4146569bc976)
