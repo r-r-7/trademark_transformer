@@ -384,6 +384,9 @@ docker-compose up --build
 <b>API Request and response</b>
 ![image](https://github.com/user-attachments/assets/290e9e45-7d6e-4117-97a5-c5bbf9007159)
 
+![image](https://github.com/user-attachments/assets/fc4b7e2c-3761-4558-bc1b-1b31f4475281)
+
+
 <b>ERROR: HTTP 429 status code</b>
 ![image](https://github.com/user-attachments/assets/3d191f15-aabb-40b3-81cf-dbf833cd1f0c)
 
