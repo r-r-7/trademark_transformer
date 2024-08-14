@@ -243,7 +243,11 @@ print(f'Predicted class: {predicted_class}')
   <li><strong>Dockerized Deployment</strong>: The application is containerized using Docker for easy deployment.</li>
 </ul>
 
-<h2>Technologies Used</h2>
+<h2>WandB log Metrics</h2>
+![image](https://github.com/user-attachments/assets/3ff2ce30-2185-4fad-a02a-10011c0a1dd3)
+
+![image](https://github.com/user-attachments/assets/6fb06e8a-8898-4fb7-b8bf-bfa67c1775c3)
+
 
 <h2>Project Structure</h2>
 
